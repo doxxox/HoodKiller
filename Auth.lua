@@ -2,8 +2,8 @@
 
 -- Replace with actual keys or sync with bot
 local authorized_keys = {
-    "key12345",
-    "key67890"
+    "TEST1",
+    "TEST2"
 }
 
 local hwid_lock = {}
